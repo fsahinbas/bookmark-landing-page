@@ -4,7 +4,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="bg-[var(--dark-blue)] text-white flex flex-col justify-center items-center gap-10 py-10 lg:flex-row lg:justify-between lg:px-[165px]">
+    <footer className="bg-[var(--dark-blue)] text-white flex flex-col justify-center items-center gap-10 py-10 lg:flex-row lg:justify-between lg:items-center lg:px-[165px]">
       <div className="flex flex-col lg:flex-row lg:items-center lg:gap-16">
         <Link href="/">
           <svg width="148" height="25" xmlns="http://www.w3.org/2000/svg">
