@@ -25,7 +25,7 @@ const Footer = () => {
           </svg>
         </Link>
         <nav>
-          <ul className="flex flex-col gap-8 justify-center items-center mt-10 lg:flex-row">
+          <ul className="flex flex-col gap-8 justify-center items-center mt-10 lg:mt-0 lg:flex-row">
             <li>
               <Link
                 href="/features"
